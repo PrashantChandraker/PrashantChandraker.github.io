@@ -59198,7 +59198,7 @@ p.toString
 p=A.dx(i,A.bv(i,i,B.j,i,i,i,i,i,h,i,i,p/70,i,i,B.cF,i,i,!0,i,i,i,i,i,i,i,i),"Flutter with ")
 o=$.bF
 o.toString
-o=A.dx(i,A.bv(i,i,B.j,i,i,i,i,i,h,i,i,o/70,i,i,B.b7,i,i,!0,i,i,i,i,i,i,i,i),"1.5+ years of experience.\n")
+o=A.dx(i,A.bv(i,i,B.j,i,i,i,i,i,h,i,i,o/70,i,i,B.b7,i,i,!0,i,i,i,i,i,i,i,i),"2+ years of experience.\n")
 n=$.bF
 n.toString
 n=A.dx(i,A.bv(i,i,B.j,i,i,i,i,i,h,i,i,n/70,i,i,B.cF,i,i,!0,i,i,i,i,i,i,i,i),"I have created many projects that prove my ability to provide high-quality solutions.\n")
